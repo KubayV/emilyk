@@ -14,7 +14,7 @@ paintings_page = st.Page("pages_list/05_Paintings.py", title="Paintings", icon="
 
 
 pg = st.navigation([home_page, piano_page, lamda_page, violin_page, paintings_page])
-st.set_page_config(page_title="Main", page_icon="🩷")
+st.set_page_config(page_title="Main", page_icon="🩷🩷")
 # st.set_page_config(page_title="Main", page_icon=":material/edit:")
 pg.run()
 
