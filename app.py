@@ -19,7 +19,6 @@ st.set_page_config(page_title="Main", page_icon="🩷")
 pg.run()
 
 
-# def main():
 #     set_bg_hack("Style/cool-backgroundBlue.png")
 
     # Adding some content to the sidebar
@@ -116,9 +115,3 @@ pg.run()
 
 
     # st.divider()
-
-
-
-#
-# if __name__ == '__main__':
-#     main()
