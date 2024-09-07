@@ -2,9 +2,7 @@
 import streamlit as st
 import sys
 
-# sys.path.append("../")
 from functions.functions import set_bg_hack
-from st_pages import Page, Section, show_pages, add_page_title, hide_pages
 
 # pg = st.navigation([st.Page("pages/01_Home.py"), st.Page("pages/02_Piano.py")])
 home_page = st.Page("pages_list/01_Home.py", title="Home", icon="🩷")
